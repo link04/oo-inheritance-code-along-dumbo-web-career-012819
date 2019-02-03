@@ -4,5 +4,3 @@ class Car < Vehicle
  
 end
 
-ok = Car.new("ok", "anal")
-binding.pry
